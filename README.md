@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fattyhero69
+- 👋 Hi, I’m zzztamzzz
 - 👀 I’m interested in creating videogames
 - 🌱 I’m currently learning Python, Java, C#, C++ and JavaScript
 - 😁 I would love to contribute my knowledge towards videogame development
