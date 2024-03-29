@@ -5,7 +5,7 @@
 - 📔 I have picked up some basic knowledge about C, Java, Python and HTML CSS and JavaScript through my school courses.
 
 # Links
-LinkedIn(https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
+[LinkedIn](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
 
 <!---
 zzztamzzz/zzztamzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
