@@ -9,7 +9,7 @@
 [LinkedIn](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
 
 # Fun
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=zzztamzzz)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=zzztamzzz.zzztamzzz)
 
 
 <!---
