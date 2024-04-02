@@ -6,12 +6,9 @@
 
 ![alt text](https://media.giphy.com/media/ZEILv6a8KBDFq4KhbB/giphy.gif)
 # Links
-[![alt text](myIcon)](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
+[![Link To Profile](https://github.com/zzztamzzz/zzztamzzz/blob/main/images/linkedin/resized/dall-e-3-linkedin-logo.jpg?raw=true)](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
 
-[myIcon]: https://github.com/zzztamzzz/zzztamzzz/blob/main/images/linkedin/resized/dall-e-3-linkedin-logo.jpg?raw=true "Link to Profile"
 <!---
 zzztamzzz/zzztamzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![My Project](https://github.com/yourusername/yourrepository/blob/branch/path/to/image.jpg)](https://www.linkedin.com/in/your-linkedin-profile)
