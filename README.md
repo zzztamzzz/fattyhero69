@@ -6,7 +6,7 @@
 
 ![alt text](https://media.giphy.com/media/ZEILv6a8KBDFq4KhbB/giphy.gif)
 # Links
-![alt text][myIcon]
+![https://www.linkedin.com/in/tamzid-choudhury-9034041b9/][myIcon]
 
 [myIcon]: https://github.com/zzztamzzz/zzztamzzz/blob/main/images/linkedin/resized/dall-e-3-linkedin-logo.jpg?raw=true "Link to Profile"
 <!---
