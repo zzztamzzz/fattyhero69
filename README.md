@@ -8,7 +8,7 @@
 </div>
 
 # Links
-![<LinkedIn>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)((https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!---
 [![Link To Profile](https://github.com/zzztamzzz/zzztamzzz/blob/main/images/linkedin/resized/dall-e-3-linkedin-logo.jpg?raw=true)](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
