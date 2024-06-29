@@ -8,8 +8,11 @@
 </div>
 
 # Links
-[![Link To Profile](https://github.com/zzztamzzz/zzztamzzz/blob/main/images/linkedin/resized/dall-e-3-linkedin-logo.jpg?raw=true)](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
+[![<LinkedIn>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)]((https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
 
+<!---
+[![Link To Profile](https://github.com/zzztamzzz/zzztamzzz/blob/main/images/linkedin/resized/dall-e-3-linkedin-logo.jpg?raw=true)](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
+--->
 <!---
 zzztamzzz/zzztamzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
