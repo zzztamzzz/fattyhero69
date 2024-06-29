@@ -8,7 +8,7 @@
 </div>
 
 # Links
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!---
 [![Link To Profile](https://github.com/zzztamzzz/zzztamzzz/blob/main/images/linkedin/resized/dall-e-3-linkedin-logo.jpg?raw=true)](https://www.linkedin.com/in/tamzid-choudhury-9034041b9/)
